@@ -1,0 +1,23 @@
+{
+  "name": "blockchain-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.8.0",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@hashgraph/sdk": "^2.34.1",
+    "app-root-path": "^3.1.0",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.7.1",
+    "ts-node": "^10.9.1"
+  }
+}
